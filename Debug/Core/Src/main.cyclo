@@ -1,0 +1,11 @@
+main.c:117:6:servo	13
+main.c:146:6:barie_vao	2
+main.c:152:6:barie_ra	2
+main.c:158:6:delay_us	2
+main.c:179:6:HAL_UART_RxCpltCallback	4
+main.c:198:6:rs485_print	1
+main.c:228:5:main	32
+main.c:493:6:SystemClock_Config	3
+main.c:528:9:hex_to_char	3
+main.c:539:6:char_to_hex	2
+main.c:559:6:Error_Handler	1

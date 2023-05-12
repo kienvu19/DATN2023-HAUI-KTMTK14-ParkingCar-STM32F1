@@ -1,0 +1,5 @@
+my_lib.c:3:6:print_number	1
+my_lib.c:11:6:printf_number	1
+my_lib.c:18:6:print_string	1
+my_lib.c:23:6:printf_string	1
+my_lib.c:29:15:size	2

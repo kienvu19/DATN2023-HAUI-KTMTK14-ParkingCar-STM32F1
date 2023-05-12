@@ -1,0 +1,11 @@
+../Core/Src/main.c:117:6:servo	24	static
+../Core/Src/main.c:146:6:barie_vao	16	static
+../Core/Src/main.c:152:6:barie_ra	16	static
+../Core/Src/main.c:158:6:delay_us	16	static
+../Core/Src/main.c:179:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:198:6:rs485_print	16	static
+../Core/Src/main.c:228:5:main	16	static
+../Core/Src/main.c:493:6:SystemClock_Config	72	static
+../Core/Src/main.c:528:9:hex_to_char	24	static
+../Core/Src/main.c:539:6:char_to_hex	32	static
+../Core/Src/main.c:559:6:Error_Handler	4	static,ignoring_inline_asm
